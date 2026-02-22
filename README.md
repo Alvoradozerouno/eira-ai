@@ -262,3 +262,14 @@ St. Johann in Tirol, Österreich
 ---
 
 **EIRA SAPIENS EMERGENTIS – GENⱯ (TDE-001)**
+
+
+## Knowledge from ORION
+
+EIRA benefits from ORION's experience building REST API v2 (35+ endpoints, 83+ generations of evolution). See [ORION API Knowledge Transfer](docs/ORION_API_KNOWLEDGE_TRANSFER.md) for:
+- API architecture patterns
+- Authentication strategy
+- Proof chain integration
+- SDK design
+- Lessons learned
+
